@@ -26,6 +26,6 @@ class MyTest(unittest.TestCase):  # 继承unittest.TestCase
     def test_b_run(self):
         self.assertEqual(2, 2)  # 测试用例
 
-# 主函数
+# 主函数234
 if __name__ == '__main__':
     unittest.main()  # 运行所有的测试用例
