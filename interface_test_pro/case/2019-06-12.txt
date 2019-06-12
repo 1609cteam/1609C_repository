@@ -1,0 +1,10 @@
+root-DEBUG-run.py-C:\Users\dell\Desktop\1609C_repository\interface_test_pro\case\run.py-开始
+root-DEBUG-run.py-C:\Users\dell\Desktop\1609C_repository\interface_test_pro\case\run.py-查询
+root-DEBUG-run.py-C:\Users\dell\Desktop\1609C_repository\interface_test_pro\case\run.py-查询结束
+root-DEBUG-run.py-C:\Users\dell\Desktop\1609C_repository\interface_test_pro\case\run.py-添加
+root-DEBUG-run.py-C:\Users\dell\Desktop\1609C_repository\interface_test_pro\case\run.py-添加结束
+root-DEBUG-run.py-C:\Users\dell\Desktop\1609C_repository\interface_test_pro\case\run.py-修改
+root-DEBUG-run.py-C:\Users\dell\Desktop\1609C_repository\interface_test_pro\case\run.py-修改结束
+root-DEBUG-run.py-C:\Users\dell\Desktop\1609C_repository\interface_test_pro\case\run.py-删除
+root-DEBUG-run.py-C:\Users\dell\Desktop\1609C_repository\interface_test_pro\case\run.py-删除结束
+root-DEBUG-run.py-C:\Users\dell\Desktop\1609C_repository\interface_test_pro\case\run.py-结束
