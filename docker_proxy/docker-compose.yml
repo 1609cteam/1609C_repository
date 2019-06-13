@@ -1,0 +1,16 @@
+version: '2'
+services:
+  proxy_pool:
+    build: ./proxy_pool
+    ports:
+      - "5010:5010"
+    links:
+      - proxy_redis:proxy_redis
+    environment:
+      db_type: SSDB
+      ssdb_host: proxy_redis
+      ssdb_port: 6379
+  proxy_redis:
+    build: ./proxy_redis
+    ports:
+      - "6379:6379"
