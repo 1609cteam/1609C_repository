@@ -8,8 +8,8 @@ class Create_log(object):
 
     # 定义析构方法--用于每一次调用都自动执行
     def __init__(self):
-        # 上一级路径                        D:\python-lj\ce_shi\k_j
-        base_path=os.path.abspath(".")  # D:\python-lj\1609C_repository01\interface_test_pro
+        # 上一级路径
+        base_path=os.path.abspath("..")  # D:\python-lj\1609C_repository01\interface_test_pro
         print('上一级路径',base_path)
 
         # 给新生log日志起名,当前时间+后缀名.log---.strftime('Y%-%m-%d')只要年月日
