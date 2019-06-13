@@ -20,11 +20,12 @@ class MyTest(unittest.TestCase):  # 继承unittest.TestCase
         # 必须使用@classmethod 装饰器,所有test运行前运行一次
         print('33333')
 
-    def test_a_run(self):
+    def test_zyy_a(self):
         self.assertEqual(1, 1)  # 测试用例
 
     def test_b_run(self):
         self.assertEqual(2, 2)  # 测试用例
+
 
 # 主函数234
 if __name__ == '__main__':
