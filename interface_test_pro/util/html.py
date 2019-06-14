@@ -1,9 +1,10 @@
 from HTMLTestRunner import HTMLTestRunner
 import unittest
-from interface_test_pro.run import MyTest
+import interface_test_pro.run
+from interface_test_pro.smtp import send_email
 
 if __name__ == '__main__':
-    cases = unittest.TestLoader().loadTestsFromTestCase(MyTest)
+    cases = unittest.TestLoader().loadTestsFromTestCase(interface_test_pro.run.MyTest)
     suite = unittest.TestSuite(cases)
 
     # a = os.path.abspath(".." + "/report/report.html")
@@ -16,3 +17,5 @@ if __name__ == '__main__':
             verbosity=2
         )
         renner.run(suite)
+    with open("../report/report.html", 'r') as f:
+        send_email("增删改查", f.read())

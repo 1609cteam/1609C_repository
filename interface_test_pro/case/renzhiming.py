@@ -6,9 +6,9 @@ import requests
 
 class Rzm():
     def __init__(self):
-        self.url = 'http://127.0.0.1:9000/book_type/'
+        self.url = 'http://10.30.29.53:9000/book_type/'
 
-    查询
+    # 查询
     def Get_Api(self):
         response = requests.get(self.url)
 

@@ -1,0 +1,171 @@
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "GET /booktype/ HTTP/1.1" 404 4059
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "GET /book_type/ HTTP/1.1" 200 160
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "GET /book_type/ HTTP/1.1" 200 160
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "GET /book_type/ HTTP/1.1" 200 160
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 33
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 33
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "GET /book_type/ HTTP/1.1" 200 160
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 33
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 33
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "DELETE /book_type/5/ HTTP/1.1" 204 0
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "DELETE /book_type/5/ HTTP/1.1" 204 0
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "DELETE /book_type/5/ HTTP/1.1" 204 0
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "GET /book_type/ HTTP/1.1" 200 160
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 33
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 33
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "DELETE /book_type/4/ HTTP/1.1" 204 0
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "DELETE /book_type/4/ HTTP/1.1" 204 0
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "DELETE /book_type/4/ HTTP/1.1" 204 0
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "GET /book_type/ HTTP/1.1" 200 161
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 34
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 34
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 36
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 36
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 36
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "DELETE /book_type/4/ HTTP/1.1" 404 23
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "DELETE /book_type/4/ HTTP/1.1" 404 23
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "DELETE /book_type/4/ HTTP/1.1" 404 23
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "DELETE /book_type/4/ HTTP/1.1" 404 23
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "GET /book_type/ HTTP/1.1" 200 161
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 34
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 34
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 36
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 36
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 36
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "POST /book_type/ HTTP/1.1" 201 36
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "PUT /book_type/ HTTP/1.1" 405 40
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "PATCH /book_type/ HTTP/1.1" 405 42
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "PATCH /book_type/1 HTTP/1.1" 500 None
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "PUT /book_type/1 HTTP/1.1" 500 None
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "PUT /book_type/1/ HTTP/1.1" 200 35
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====开始了=====
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-Starting new HTTP connection (1): 127.0.0.1
+urllib3.connectionpool-DEBUG-connectionpool.py-E:\Anaconda\lib\site-packages\urllib3\connectionpool.py-http://127.0.0.1:9000 "PATCH /book_type/16/ HTTP/1.1" 200 39
+root-DEBUG-run.py-C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\run.py-=====结束了=====
