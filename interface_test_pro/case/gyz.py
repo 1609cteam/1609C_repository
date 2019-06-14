@@ -39,7 +39,7 @@ class Book():
         return a.status_code
 if __name__ == '__main__':
     bo = Book()
-    # bo.ge_t()
+    bo.ge_t()
     # bo.pos_t()
     # bo.pu_t()
     # bo.delet_e()
