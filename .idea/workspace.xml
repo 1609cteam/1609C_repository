@@ -2,58 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83278124-4eae-4401-90f8-ac2b0c958ceb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/interface_test_pro/smtp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1609C_repository/2019-06-12.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1609C_repository/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1609C_repository/interface_test_pro/case/renzhiming.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1609C_repository/interface_test_pro/log.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1609C_repository/interface_test_pro/report/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1609C_repository/interface_test_pro/run.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1609C_repository/interface_test_pro/util/HTMLTestRunner.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1609C_repository/interface_test_pro/util/html.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test_pro/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test_pro/.idea/interface_test_pro.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test_pro/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test_pro/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test_pro/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test_pro/case/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test_pro/case/renzhiming.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test_pro/data/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test_pro/log.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test_pro/report/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test_pro/report/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test_pro/run.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test_pro/util/HTMLTestRunner.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test_pro/util/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test_pro/util/html.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/.idea/zsgc.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/a.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/a.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/aasd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/asd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/demo/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/demo/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/demo/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/demo/filter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/demo/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/demo/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/demo/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/demo/serializers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/demo/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/demo/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/itchat.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/zsgc/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/zsgc/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/zsgc/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zsgc/zsgc/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asd/python_smtplib发送邮件.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface_test_pro/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/interface_test_pro/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface_test_pro/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/interface_test_pro/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface_test_pro/2019-06-13.log" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,40 +18,19 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/1609C_repository$html.coverage" NAME="html Coverage Results" MODIFIED="1560394139465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_test_pro/util" />
+    <SUITE FILE_PATH="coverage/1609C_repository$py_test_for_baidu_Baidu.coverage" NAME="py.test for baidu.Baidu Coverage Results" MODIFIED="1560506805670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_test_pro" />
+    <SUITE FILE_PATH="coverage/1609C_repository$2__1_.coverage" NAME="2 (1) Coverage Results" MODIFIED="1560476126699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_test_pro" />
     <SUITE FILE_PATH="coverage/1609C_repository$py_test_in_C__Users_Lenovo_Desktop_1609C_repository_interface_test_pro_run_py.coverage" NAME="py.test in C:/Users/Lenovo/Desktop/1609C_repository/interface_test_pro/run.py Coverage Results" MODIFIED="1560390672200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_test_pro" />
     <SUITE FILE_PATH="coverage/1609C_repository$py_test_for_run_MyTest.coverage" NAME="py.test for run.MyTest Coverage Results" MODIFIED="1560389008628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_test_pro" />
     <SUITE FILE_PATH="coverage/1609C_repository$py_test_in_run_py.coverage" NAME="py.test in run.py Coverage Results" MODIFIED="1560331770224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_test_pro" />
     <SUITE FILE_PATH="coverage/1609C_repository$smtp__1_.coverage" NAME="smtp发送文字 (1) Coverage Results" MODIFIED="1560390532517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_test_pro" />
     <SUITE FILE_PATH="coverage/1609C_repository$renzhiming.coverage" NAME="renzhiming Coverage Results" MODIFIED="1560326279538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_test_pro/case" />
-    <SUITE FILE_PATH="coverage/1609C_repository$smtp.coverage" NAME="smtp Coverage Results" MODIFIED="1560397344249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_test_pro" />
+    <SUITE FILE_PATH="coverage/1609C_repository$2.coverage" NAME="2 Coverage Results" MODIFIED="1560475699735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/1609C_repository$py_test_for_baidu_Baidu_test_bai.coverage" NAME="py.test for baidu.Baidu.test_bai Coverage Results" MODIFIED="1560506396994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_test_pro" />
+    <SUITE FILE_PATH="coverage/1609C_repository$smtp.coverage" NAME="smtp Coverage Results" MODIFIED="1560475581265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_test_pro" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interface_test_pro/run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="smtp.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/interface_test_pro/smtp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -126,7 +59,10 @@
         <option value="$PROJECT_DIR$/interface_test_pro/run.py" />
         <option value="$PROJECT_DIR$/a.html" />
         <option value="$PROJECT_DIR$/interface_test_pro/report/report.html" />
+        <option value="$PROJECT_DIR$/../2.py" />
         <option value="$PROJECT_DIR$/interface_test_pro/smtp.py" />
+        <option value="$PROJECT_DIR$/interface_test_pro/2.py" />
+        <option value="$PROJECT_DIR$/interface_test_pro/baidu.py" />
       </list>
     </option>
   </component>
@@ -140,8 +76,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="186" />
-    <option name="y" value="16" />
+    <option name="x" value="95" />
+    <option name="y" value="46" />
     <option name="width" value="1034" />
     <option name="height" value="688" />
   </component>
@@ -158,17 +94,6 @@
               <item name="1609C_repository" type="b2602c69:ProjectViewProjectNode" />
               <item name="1609C_repository" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="1609C_repository" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1609C_repository" type="462c0819:PsiDirectoryNode" />
-              <item name="interface_test_pro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1609C_repository" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1609C_repository" type="462c0819:PsiDirectoryNode" />
-              <item name="interface_test_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -178,7 +103,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/interface_test_pro" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -188,6 +113,7 @@
       <recent name="C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro" />
       <recent name="C:\Users\Lenovo\Desktop\1609C_repository\1609C_repository\interface_test_pro" />
     </key>
   </component>
@@ -203,28 +129,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.smtp">
+  <component name="RunManager" selected="Python tests.py.test for baidu.Baidu">
     <configuration name="report.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/1609C_repository/interface_test_pro/report/report.html" />
-    <configuration name="html" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="1609C_repository" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_test_pro/util" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface_test_pro/util/html.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="smtp发送文字 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1609C_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,13 +144,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Lenovo\Desktop\1609C_repository\interface_test_pro\smtp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface_test_pro/2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="smtp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1609C_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,18 +158,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_test_pro" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface_test_pro/smtp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="py.test in run.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for baidu.Baidu" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="1609C_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,23 +181,38 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/interface_test_pro/run.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;baidu.Baidu&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test for baidu.Baidu.test_bai" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="1609C_repository" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_test_pro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;baidu.Baidu.test_bai&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.py.test in run.py" />
       <item itemvalue="JavaScript Debug.report.html" />
-      <item itemvalue="Python.smtp发送文字 (1)" />
-      <item itemvalue="Python.html" />
-      <item itemvalue="Python.smtp" />
+      <item itemvalue="Python.2" />
+      <item itemvalue="Python.2 (1)" />
+      <item itemvalue="Python tests.py.test for baidu.Baidu" />
+      <item itemvalue="Python tests.py.test for baidu.Baidu.test_bai" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.smtp" />
-        <item itemvalue="Python.html" />
+        <item itemvalue="Python tests.py.test for baidu.Baidu" />
+        <item itemvalue="Python tests.py.test for baidu.Baidu.test_bai" />
         <item itemvalue="JavaScript Debug.report.html" />
-        <item itemvalue="Python tests.py.test in run.py" />
-        <item itemvalue="Python.smtp发送文字 (1)" />
+        <item itemvalue="Python.2 (1)" />
+        <item itemvalue="Python.2" />
       </list>
     </recent_temporary>
   </component>
@@ -308,63 +230,85 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_C__Users_Lenovo_Desktop_1609C_repository_interface_test_pro_run_py - 2019.06.13 at 09h 25m 30s.xml">
-      <configuration name="py.test in C:/Users/Lenovo/Desktop/1609C_repository/interface_test_pro/run.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_C__Users_Lenovo_Desktop_1609C_repository_interface_test_pro_run_py - 2019.06.13 at 09h 27m 43s.xml">
-      <configuration name="py.test in C:/Users/Lenovo/Desktop/1609C_repository/interface_test_pro/run.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_C__Users_Lenovo_Desktop_1609C_repository_interface_test_pro_run_py - 2019.06.13 at 09h 28m 13s.xml">
-      <configuration name="py.test in C:/Users/Lenovo/Desktop/1609C_repository/interface_test_pro/run.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_C__Users_Lenovo_Desktop_1609C_repository_interface_test_pro_run_py - 2019.06.13 at 09h 28m 35s.xml">
-      <configuration name="py.test in C:/Users/Lenovo/Desktop/1609C_repository/interface_test_pro/run.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_C__Users_Lenovo_Desktop_1609C_repository_interface_test_pro_run_py - 2019.06.13 at 09h 29m 59s.xml">
-      <configuration name="py.test in C:/Users/Lenovo/Desktop/1609C_repository/interface_test_pro/run.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_C__Users_Lenovo_Desktop_1609C_repository_interface_test_pro_run_py - 2019.06.13 at 09h 31m 48s.xml">
-      <configuration name="py.test in C:/Users/Lenovo/Desktop/1609C_repository/interface_test_pro/run.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_C__Users_Lenovo_Desktop_1609C_repository_interface_test_pro_run_py - 2019.06.13 at 09h 32m 18s.xml">
-      <configuration name="py.test in C:/Users/Lenovo/Desktop/1609C_repository/interface_test_pro/run.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_C__Users_Lenovo_Desktop_1609C_repository_interface_test_pro_run_py - 2019.06.13 at 09h 34m 01s.xml">
-      <configuration name="py.test in C:/Users/Lenovo/Desktop/1609C_repository/interface_test_pro/run.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_C__Users_Lenovo_Desktop_1609C_repository_interface_test_pro_run_py - 2019.06.13 at 09h 51m 00s.xml">
-      <configuration name="py.test in C:/Users/Lenovo/Desktop/1609C_repository/interface_test_pro/run.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_in_C__Users_Lenovo_Desktop_1609C_repository_interface_test_pro_run_py - 2019.06.13 at 09h 51m 14s.xml">
       <configuration name="py.test in C:/Users/Lenovo/Desktop/1609C_repository/interface_test_pro/run.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="py_test_for_baidu_Baidu - 2019.06.14 at 17h 57m 24s.xml">
+      <configuration name="py.test for baidu.Baidu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_baidu_Baidu - 2019.06.14 at 17h 59m 07s.xml">
+      <configuration name="py.test for baidu.Baidu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_baidu_Baidu - 2019.06.14 at 17h 59m 35s.xml">
+      <configuration name="py.test for baidu.Baidu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_baidu_Baidu_test_bai - 2019.06.14 at 18h 00m 24s.xml">
+      <configuration name="py.test for baidu.Baidu.test_bai" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_baidu_Baidu - 2019.06.14 at 18h 03m 11s.xml">
+      <configuration name="py.test for baidu.Baidu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_baidu_Baidu - 2019.06.14 at 18h 04m 20s.xml">
+      <configuration name="py.test for baidu.Baidu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_baidu_Baidu - 2019.06.14 at 18h 04m 54s.xml">
+      <configuration name="py.test for baidu.Baidu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_baidu_Baidu - 2019.06.14 at 18h 05m 26s.xml">
+      <configuration name="py.test for baidu.Baidu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_baidu_Baidu - 2019.06.14 at 18h 07m 11s.xml">
+      <configuration name="py.test for baidu.Baidu" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="186" y="16" width="1034" height="688" extended-state="0" />
-    <editor active="true" />
+    <frame x="95" y="46" width="1034" height="688" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.48816028" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3090909" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3927273" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17556468" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24435319" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32969034" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969034" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22895277" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4043716" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969034" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3927273" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -383,13 +327,114 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/interface_test_pro/run.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/smtp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/util/html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/report/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/2019-06-13.log" />
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/util/html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/report/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/smtp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/smtp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/smtp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/run.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <element signature="e#492#556#0" />
-            <element signature="e#593#652#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -412,37 +457,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1609C_repository/interface_test_pro/test.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1609C_repository/interface_test_pro/report/report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5201" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1609C_repository/interface_test_pro/smtp发送文字.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1609C_repository/interface_test_pro/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface_test_pro/test.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/1609C_repository/interface_test_pro/test.txt" />
+    <entry file="file://$PROJECT_DIR$/1609C_repository/interface_test_pro/report/report.html" />
+    <entry file="file://$PROJECT_DIR$/1609C_repository/interface_test_pro/smtp发送文字.py" />
+    <entry file="file://$PROJECT_DIR$/1609C_repository/interface_test_pro/run.py" />
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/test.txt" />
     <entry file="file://$PROJECT_DIR$/2019-06-13.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider">
         <state relative-caret-position="101">
@@ -450,77 +469,109 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface_test_pro/log.py">
+    <entry file="file://$PROJECT_DIR$/a.html" />
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/report.html" />
+    <entry file="file://$PROJECT_DIR$/../2.py" />
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface_test_pro/case/renzhiming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface_test_pro/2019-06-13.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="8">
-          <caret line="384" column="77" selection-start-line="384" selection-start-column="77" selection-end-line="399" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface_test_pro/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="157" column="30" lean-forward="true" selection-start-line="157" selection-start-column="30" selection-end-line="157" selection-end-column="30" />
-          <folding>
-            <element signature="e#6270#6276#1" expanded="true" />
-            <element signature="e#6315#6321#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="452">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/interface_test_pro/util/html.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface_test_pro/report.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface_test_pro/report/report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2584">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="176">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/interface_test_pro/smtp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="304">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/case/renzhiming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/report/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/2019-06-13.log" />
+    <entry file="file://$PROJECT_DIR$/../实训一/day1/baidu_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../实训一/day1_1/baidu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../实训一/day2/maiziedu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../实训一/day3/asd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../实训一/day3/cj_gzb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../实训一/day3/test_case1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test_pro/baidu.py" />
+    <entry file="file://$PROJECT_DIR$/../实训一/day3/test_case2 - 任志明.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-06-14.log" />
   </component>
 </project>
